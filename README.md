@@ -1,4 +1,23 @@
-### Hi there 👋
+## Olá nós somos a turma da Tarde de Desenvolvimentos de Sistemas na Proz Educação 😎
+
+### Os Integrantes da sala ☺️:
+
+- Jean
+- Miguel
+- Tales
+- Otávio
+- Nicolas
+- Marcos
+- Luíza
+- Mateus
+- Ana Clara
+- Nicolle
+- Fillip
+- Maísa
+- Pedro
+- Tiago
+
+
 
 <!--
 **prozdevbullying/prozdevbullying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
