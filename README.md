@@ -2,7 +2,7 @@
 
 ### Os Integrantes da sala ☺️:
 
-- Jean
+- Jean 🤞
 - Miguel
 - Tales
 - Otávio
