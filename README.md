@@ -5,7 +5,7 @@
 - Jean 🤞
 - Miguel
 - Tales
-- Otávio
+- Otávio 🙃
 - Nicolas
 - Marcos
 - Luíza
